@@ -8,3 +8,7 @@ Download all files in a folder
 
 Step 2
 Run Black_Jack_Game.py
+
+NOTE:
+To install Colorama you should to add the below command in command line.
+'pip install colorama'
